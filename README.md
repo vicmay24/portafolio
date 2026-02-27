@@ -59,3 +59,4 @@ Me enfoco en:
 
 ---
 ## Enlace de un proyecto básico
+Con la finalidad de mostrar mis habilidades, muestro un pequeño proyecto enfocado en front-end.
