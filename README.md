@@ -1,6 +1,4 @@
 # Experiencia en Proyectos Front-End
-León Hernández Mayra Victoria 
-
 He participado en el desarrollo de múltiples aplicaciones web, orientados a distintos sectores como:
 
 - Plataforma para escuela privada
