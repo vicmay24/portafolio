@@ -58,13 +58,13 @@ Me enfoco en:
 - Trabajar de forma colaborativa manteniendo comunicación técnica clara.
 
 ---
-## Enlace de un proyecto básico
+## Enlace del proyecto
 
-Este proyecto es una versión básica creada para mostrar mis habilidades en desarrollo front-end.
-El objetivo principal de ese repositorio es demostrar mis conocimientos y estilo de código, permitiendo a otros ver cómo organizo y desarrollo un proyecto desde cero.
+Este proyecto es una versión sencilla creada para mostrar mis habilidades en desarrollo front-end.
+El objetivo principal es demostrar mis conocimientos y estilo de código, permitiendo ver cómo organizo y desarrollo un proyecto desde cero.
 
--Contiene las funcionalidades principales y la estructura básica de la aplicación.
--Tiene potencial para expandirse y mejorar con nuevas características (mejoras futuras).
+- Contiene las funcionalidades principales y la estructura básica.
+- Tiene potencial para expandirse y mejorar con nuevas características (mejoras futuras).
 
 Por ahora, el proyecto está en estado básico, listo para revisión y aprendizaje.
 
