@@ -59,4 +59,14 @@ Me enfoco en:
 
 ---
 ## Enlace de un proyecto básico
-Con la finalidad de mostrar mis habilidades, muestro un pequeño proyecto enfocado en front-end.
+
+Este proyecto es una versión básica creada para mostrar mis habilidades en desarrollo front-end.
+El objetivo principal de ese repositorio es demostrar mis conocimientos y estilo de código, permitiendo a otros ver cómo organizo y desarrollo un proyecto desde cero.
+
+-Contiene las funcionalidades principales y la estructura básica de la aplicación.
+-Tiene potencial para expandirse y mejorar con nuevas características (mejoras futuras).
+
+Por ahora, el proyecto está en estado básico, listo para revisión y aprendizaje.
+
+##Enlace 
+https://github.com/vicmay24/web-beta.git
