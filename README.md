@@ -69,4 +69,6 @@ El objetivo principal es demostrar mis conocimientos y estilo de código, permit
 Por ahora, el proyecto está en estado básico, listo para revisión y aprendizaje.
 
 ##Enlace 
-https://github.com/vicmay24/web-beta.git
+Código y repo: https://github.com/vicmay24/web-beta.git
+Interfaz y visualizacion: https://pokeweb24.netlify.app/
+
